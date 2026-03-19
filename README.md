@@ -7,7 +7,7 @@ Still early in the journey but loving every step of it 🌱
 
 ## 🙋 About Me
 
-- 🎓 CS Graduate | Incoming MS Computer Science student at UNBC, Canada
+- 🎓 CS Graduate
 - 🌍 Based in China
 - 🐍 Currently learning Python
 - 💡 Passionate about Data Science, Machine Learning & AI
