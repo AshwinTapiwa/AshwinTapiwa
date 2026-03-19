@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Ashwin 👋
 
-<!--
-**AshwinTapiwa/AshwinTapiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Graduate now diving deep into Python, Data Science, ML & AI.
+Still early in the journey but loving every step of it 🌱
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋 About Me
+
+- 🎓 CS Graduate | Incoming MS Computer Science student at UNBC, Canada
+- 🌍 Based in China
+- 🐍 Currently learning Python
+- 💡 Passionate about Data Science, Machine Learning & AI
+- 🤝 Always open to connect with fellow learners and developers
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python (learning)
+- **Interests:** Data Science | Machine Learning | AI
+- **Currently learning:** Python fundamentals & ML basics
+
+---
+
+## 📁 Projects
+
+> 🚧 Projects coming soon — building as I learn!
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: ashwintapiwakaserera@gmail.com
+- 💬 WeChat: Kays_02
