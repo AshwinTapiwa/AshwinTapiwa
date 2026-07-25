@@ -25,9 +25,9 @@ CS Master's student passionate about **Machine Learning**, **Deep Learning** & b
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏠 [house_price_project](link) | House price prediction and analysis | Jupyter Notebook |
-| 🩺 [Breast-Cancer-Lymph-Node-Metastasis-Prediction](link) | ML model for lymph node metastasis prediction | Python |
-| 🎙️ [speech-stress-detection](link) | Voice-based stress detection using HuggingFace AST model for social robot integration | Python, HuggingFace |
+| 🏠 [house_price_project](https://github.com/AshwinTapiwa/house_price_project) | House price prediction and analysis | Jupyter Notebook |
+| 🩺 [Breast-Cancer-Lymph-Node-Metastasis-Prediction](https://github.com/AshwinTapiwa/Breast-Cancer-Lymph-Node-Metastasis-Prediction-) | ML model for lymph node metastasis prediction | Python |
+| 🎙️ [speech-stress-detection](https://github.com/AshwinTapiwa/speech-stress-detection) | Voice-based stress detection using HuggingFace AST model for social robot integration | Python, HuggingFace |
 
 ---
 
